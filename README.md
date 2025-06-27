@@ -41,5 +41,5 @@ I followed the tutorials and built the core logic from scratch, adapting and lea
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/tower-defense-java.git
+   git clone https://github.com/Frathol/Try_TD_wJava.git
    cd tower-defense-java
